@@ -1,6 +1,6 @@
-## Minimum Information about any Radiocarbon Determination
+## ⌛ Minimum Information about any Radiocarbon Determination
 
-⌛ A proposal to create a formalised, structured, and validatable standard for reporting of radiocarbon determinations.
+A proposal to create a formalised, structured, and validatable standard for reporting of radiocarbon determinations.
 <!--
 
 **Here are some ideas to get you started:**
