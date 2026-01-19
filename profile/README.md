@@ -4,9 +4,7 @@
   <img width="75%" alt="Fallback image description" src="default-image.png">
 </picture>
 
-## ⌛ MIaaRD: Minimum Information about any Radiocarbon Determination
-
-A proposal to create a formalised, structured, and validatable standard for reporting of radiocarbon determinations.
+⌛ Minimum Information about any Radiocarbon Determination (MIaaRD): A proposal to create a formalised, structured, and validatable standard for reporting of radiocarbon determinations.
 
 - 📑 See [miaard-schema](https://github.com/miaard/miaard-schema) to see the schema itself
 - ✅ See [miaard-DataHarmonizer](https://github.com/miaard/miaard-DataHarmonizer) to test the schema on your own data
